@@ -5,7 +5,7 @@ This project is an **interactive Power BI dashboard** built during a workshop le
 The dashboard analyzes company-wide **sales, cost, profit, regional performance**, and customer behavior.
 
 ## 🖼️ Dashboard Preview  
-![SN Corp Dashboard](SN_Corp_Dashboard_screenshot.png)
+![SN Corp Dashboard](SN Corp Dashboard_screenshot.png)
 
 ## 🧰 Tools & Technologies  
 - Microsoft Power BI  
